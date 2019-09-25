@@ -1,6 +1,5 @@
 # vue-music
-<<<<<<< HEAD
-
+# A music webapp base on vue
 > A Vue.js project
 
 ## Build Setup
@@ -29,6 +28,3 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-A music webapp base on vue
->>>>>>> 22b7e793893dd35453a57d72b2d413868406b316
